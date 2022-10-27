@@ -1,2 +1,4 @@
-# Hello-git
+# hello-git
 opis
+# Credits
+opis2
